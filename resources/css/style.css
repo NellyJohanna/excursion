@@ -19,6 +19,7 @@ h2 {
 h3 {
   color: gray;
   font-size: 21px;
+  font-weight: normal;
 }
 
 h4 {
@@ -34,4 +35,9 @@ p
 div
   {
   background-color: black;
+}
+
+#right
+{
+  text-align: right;
 }
